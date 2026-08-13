@@ -1,0 +1,53 @@
+GOOD CLEAN STEMS BETA EVALUATION LICENSE
+Version 1.0 — August 13, 2026
+
+Copyright © 2026 Fotsbeats. All rights reserved.
+
+This Beta Evaluation License (the "License") governs the GOOD CLEAN STEMS application and original materials supplied by Fotsbeats with version 0.6 and later beta releases (the "Software"). By downloading, installing, or using the Software, you agree to this License.
+
+1. Limited beta license
+
+Fotsbeats grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to download, install, and use the Software in object-code form on devices you control solely for personal or internal evaluation and testing during the beta period.
+
+2. Restrictions
+
+Except where applicable law expressly permits despite these restrictions, you may not:
+
+- copy the Software other than a reasonable backup copy;
+- publish, redistribute, sublicense, sell, rent, lease, transfer, host, or otherwise make the Software available to another person;
+- modify, adapt, translate, or create derivative works from the Software;
+- reverse engineer, decompile, disassemble, or otherwise attempt to derive or reconstruct source code, underlying ideas, algorithms, file formats, or non-public interfaces from the Software;
+- remove or alter copyright, trademark, license, or attribution notices; or
+- use any portion of the Software to develop or improve a competing product or service.
+
+3. Ownership
+
+The Software is licensed, not sold. Fotsbeats retains all right, title, and interest in the Software, including all copyright, trade secret, and other intellectual-property rights. No rights are granted except those expressly stated in this License.
+
+Fotsbeats claims no ownership of audio you provide to the Software or audio output the Software creates from your material.
+
+4. Third-party materials
+
+The Software includes or interoperates with third-party software, fonts, model configurations, and model weights. Those materials remain governed by their respective licenses and terms, identified in THIRD_PARTY_NOTICES.md and accompanying license files. This License does not restrict rights granted directly by those third-party licenses.
+
+5. Beta software
+
+The Software is a pre-release beta and may contain defects, change without notice, or stop being available. Fotsbeats has no obligation to provide maintenance, support, updates, or continued access.
+
+6. Termination
+
+This License terminates automatically if you breach its terms. Fotsbeats may also end the beta program or revoke this evaluation license by notice. Upon termination, you must stop using and delete all copies of the Software in your possession or control.
+
+7. Disclaimer of warranties
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, FOTSBEATS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR GOODWILL, ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FOTSBEATS' TOTAL LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE WILL NOT EXCEED THE AMOUNT YOU PAID FOR THE BETA SOFTWARE, IF ANY.
+
+9. General
+
+If any provision of this License is unenforceable, it will be limited to the minimum extent necessary and the remaining provisions will continue in effect. A waiver must be in writing and applies only to the specific instance stated. This License is the entire agreement between you and Fotsbeats regarding the beta Software and supersedes prior discussions about that Software.
+
+Versions of GOOD CLEAN STEMS previously received under the MIT License remain governed by that license for those copies. This License does not revoke permissions already granted for earlier copies.
