@@ -11,9 +11,23 @@ Download the current build from [GitHub Releases](https://github.com/Fotsbeats/G
 - Apple silicon Mac
 - macOS 14 or newer
 
-The tester build is ad-hoc signed and is not notarized. On first launch, macOS may require approval in **System Settings → Privacy & Security**.
+The tester build is ad-hoc signed and is not notarized. Follow the first-run steps below if macOS blocks it.
 
 Required separation models download automatically on first use and are cached in `~/Library/Application Support/GOOD CLEAN STEMS/Models`.
+
+## Allow the app on first run
+
+1. Unzip the download and move **GOOD CLEAN STEMS** to your **Applications** folder.
+2. Open the app. If macOS displays the warning below, click **Done**. Do not click **Move to Trash**.
+
+![GOOD CLEAN STEMS could not be verified warning](docs/good-clean-stems-first-warning.png)
+
+3. Open **System Settings → Privacy & Security**.
+4. Scroll to the **Security** section and click **Open Anyway** beside the GOOD CLEAN STEMS message.
+
+![Open Anyway for GOOD CLEAN STEMS in Privacy & Security](docs/good-clean-stems-open-anyway.png)
+
+5. Authenticate if macOS asks, then confirm **Open**. This approval is normally required only once for that app version.
 
 ## Testing
 
